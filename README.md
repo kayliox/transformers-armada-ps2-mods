@@ -43,8 +43,8 @@ If you came here from the Reddit post: the work did not stop, it moved.
 ## Cheats
 
 The game has **32 built-in cheat codes**, entered on the difficulty screen, in the Extras menu, at the HQ and in the
-pause menu. Public lists knew 10 of them. All 32 are decoded from the game's own code table, with what each one does
-where we know it, in **[docs/CHEATS.md](docs/CHEATS.md)**.
+pause menu. All 32 are decoded from the game's own code table, with what each one does, in
+**[docs/CHEATS.md](docs/CHEATS.md)**.
 
 Some highlights:
 
@@ -52,11 +52,14 @@ Some highlights:
 |---|---|---|---|
 | Difficulty screen | L1, R1, L2, R2, Left, Left, Right, Square | Start at the Volcano warp gate on Pacific Island, just before the boss | tried in the game |
 | Difficulty screen | R2, R2, L1, L2, R2, R1, L2, L2 | Everything: every level including Cybertron, every Mini-Con | read from the code |
-| HQ | Up, Up, Down, Down, L1, L2, L1, L2 | Infinite stealth | publicly known |
-| HQ | Down, Up, Up, Down, R1, R2, R2, R1 | Super Mini-Con damage | publicly known |
+| HQ | L1, L2, Circle, Circle, Square, Circle, L2, L1 | Unlock all Mini-Cons | publicly known |
+| HQ | Circle, Circle, Circle, Square, L1, L1, L1, L2 | Big head mode | publicly known |
+| HQ | L1, R2, R2, Square, Square, Square, Square, L1 | Turbo mode | publicly known |
+| Pause menu | R1, Circle, Circle, R1, R2, L1, L1, L2 | Invincibility (enter it again in each level) | publicly known |
 | Pause menu | Left, Right, Left, R1, R2, R1, Right, Right | Enemies invisible | publicly known |
 
-**11 codes do something nobody has documented yet.** If you find out what one does, open an issue.
+**One code still does something nobody has documented yet:** L2, L2, Square, Circle, Square, R1, R1, R2 at the HQ.
+The game reads it when Mini-Con abilities and weapons are created. If you find out what it does, open an issue.
 
 ## Mods
 

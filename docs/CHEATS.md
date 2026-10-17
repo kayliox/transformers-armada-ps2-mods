@@ -21,22 +21,22 @@ The 15 difficulty-screen codes build on each other: each one includes everything
 | L1, Left, L2, Right, Square, Square, Circle, Circle | Adds Antarctica's Mini-Cons and gates; start at its last gate | read from the code |
 | R1, R1, R2, L2, L1, L1, R1, R1 | As above, with Antarctica completed | read from the code |
 | Square, Circle, Circle, R1, L1, Left, Left, Right | Adds Deep Amazon; start at the antechamber before the boss | tried in the game |
-| Left, Right, Left, Left, Right, R1, R2, Circle | As above, with Deep Amazon completed | read from the code |
+| Left, Right, Left, Left, Right, R1, R2, Circle | As above, with Deep Amazon completed (Deep Amazon level complete) | publicly known |
 | L2, Left, Right, Right, Left, L2, L1, L2 | Adds Mid-Atlantic's Mini-Cons and gates | read from the code |
 | Circle, Square, Circle, Square, Right, Left, Left, Right | As above, with Mid-Atlantic completed, so Alaska starts from its beginning | publicly known |
 | R1, R1, R2, L1, L1, L2, Circle, Circle | Adds Alaska; start at the Cliff-Top gate near the end of the level | tried in the game |
-| R1, Circle, R1, Square, Left, Left, Right, Left | As above, with Alaska completed | read from the code |
+| R1, Circle, R1, Square, Left, Left, Right, Left | As above, with Alaska completed (Alaska level complete) | publicly known |
 | Right, Right, Square, R1, R2, Circle, Left, Left | Adds the Starship's Mini-Cons and gates | read from the code |
-| Left, Left, Right, Circle, Circle, Right, Right, Left | As above, with the Starship completed | read from the code |
+| Left, Left, Right, Circle, Circle, Right, Right, Left | As above, with the Starship completed (Starship level complete) | publicly known |
 | L1, R1, L2, R2, Left, Left, Right, Square | Adds Pacific Island; start at the Volcano gate before the boss | tried in the game |
-| R2, R1, L1, L2, Square, Circle, Square, Circle | As above, with Pacific Island completed | read from the code |
+| R2, R1, L1, L2, Square, Circle, Square, Circle | As above, with Pacific Island completed (Earth complete) | publicly known |
 | R2, R2, L1, L2, R2, R1, L2, L2 | Everything: every level including Cybertron, every Mini-Con | read from the code |
 
 ## Extras menu
 
 | Code | What it does | How we know |
 |---|---|---|
-| Square, Square, Circle, Square, Square, Circle, L1, L2 | Unknown (it changes something in the Extras movie list) | unknown |
+| Square, Square, Circle, Square, Square, Circle, L1, L2 | Unlock all extras | publicly known |
 | Circle, Square, Circle, Square, L1, L1, L1, Square | Unlocks the movies | tried in the game |
 | Circle, Square, Circle, Square, L1, R1, L1, Circle | Unlocks the art | tried in the game |
 | Circle, Square, Circle, Square, R1, L1, L1, L1 | Unlocks the music | tried in the game |
@@ -45,26 +45,26 @@ The 15 difficulty-screen codes build on each other: each one includes everything
 
 | Code | What it does | How we know |
 |---|---|---|
-| L1, L2, Circle, Circle, Square, Circle, L2, L1 | Unknown (read by the Mini-Con select screen) | unknown |
-| R1, R1, L2, R1, R1, L2, Circle, Circle | Unknown (read by the Mini-Con pickup and button menus) | unknown |
-| Up, Up, Down, Down, L1, L2, L1, L2 | Infinite stealth | publicly known |
-| Up, Up, Square, Circle, Square, Square, L1, L2 | Unknown (read when Mini-Con abilities start) | unknown |
+| L1, L2, Circle, Circle, Square, Circle, L2, L1 | Unlock all Mini-Cons | publicly known |
+| R1, R1, L2, R1, R1, L2, Circle, Circle | Disable Mini-Con overload: equip any four Mini-Cons, ignoring the limits | publicly known |
+| Up, Up, Down, Down, L1, L2, L1, L2 | Infinite stealth (with the Convert Mini-Con equipped) | publicly known |
+| Up, Up, Square, Circle, Square, Square, L1, L2 | Infinite dash | publicly known |
 | L2, L2, Square, Circle, Square, R1, R1, R2 | Unknown (read when Mini-Con abilities and weapons are created) | unknown |
-| Up, Down, Up, Down, Circle, Square, Square, Circle | Unknown (read by the Autobot's energon and progress update) | unknown |
+| Up, Down, Up, Down, Circle, Square, Square, Circle | Infinite Powerlinx | publicly known |
 | Down, Up, Up, Down, R1, R2, R2, R1 | Super Mini-Con damage | publicly known |
-| Circle, Circle, Up, Down, R1, R2, Down, Down | Unknown (read by the flight state) | unknown |
-| Circle, Circle, Circle, Square, L1, L1, L1, L2 | Unknown (read when simple actors start) | unknown |
-| L1, R2, R2, Square, Square, Square, Square, L1 | Unknown (read by the game's main update) | unknown |
+| Circle, Circle, Up, Down, R1, R2, Down, Down | Glide camera tilt | publicly known |
+| Circle, Circle, Circle, Square, L1, L1, L1, L2 | Big head mode | publicly known |
+| L1, R2, R2, Square, Square, Square, Square, L1 | Turbo mode | publicly known |
 
 ## Pause menu
 
 | Code | What it does | How we know |
 |---|---|---|
-| R1, Circle, Circle, R1, R2, L1, L1, L2 | Puts the player in a special state until the next level starts; what it looks like is unknown | unknown |
-| Square, Circle, Square, Circle, L1, L1, L2, L1 | Unknown (read when simple actors take damage) | unknown |
+| R1, Circle, Circle, R1, R2, L1, L1, L2 | Invincibility (cleared when the next level starts, so enter it again in each level) | publicly known |
+| Square, Circle, Square, Circle, L1, L1, L2, L1 | One-hit kills (enter it again in each new level) | publicly known |
 | Left, Right, Left, R1, R2, R1, Right, Right | Enemies invisible | publicly known |
 
 ## Help wanted
 
-**11 codes do something nobody has documented yet.** If you try one and see what it changes, open an issue
+**One code still does something nobody has documented yet.** If you try it and see what it changes, open an issue
 with the code, the screen you entered it on and what happened.
