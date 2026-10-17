@@ -49,7 +49,7 @@ The 15 difficulty-screen codes build on each other: each one includes everything
 | R1, R1, L2, R1, R1, L2, Circle, Circle | Disable Mini-Con overload: equip any four Mini-Cons, ignoring the limits | publicly known |
 | Up, Up, Down, Down, L1, L2, L1, L2 | Infinite stealth (with the Convert Mini-Con equipped) | publicly known |
 | Up, Up, Square, Circle, Square, Square, L1, L2 | Infinite dash | publicly known |
-| L2, L2, Square, Circle, Square, R1, R1, R2 | Unknown (read when Mini-Con abilities and weapons are created) | unknown |
+| L2, L2, Square, Circle, Square, R1, R1, R2 | Infinite tractor beam (with the Tractor Mini-Con equipped) | publicly known |
 | Up, Down, Up, Down, Circle, Square, Square, Circle | Infinite Powerlinx | publicly known |
 | Down, Up, Up, Down, R1, R2, R2, R1 | Super Mini-Con damage | publicly known |
 | Circle, Circle, Up, Down, R1, R2, Down, Down | Glide camera tilt | publicly known |
@@ -64,7 +64,7 @@ The 15 difficulty-screen codes build on each other: each one includes everything
 | Square, Circle, Square, Circle, L1, L1, L2, L1 | One-hit kills (enter it again in each new level) | publicly known |
 | Left, Right, Left, R1, R2, R1, Right, Right | Enemies invisible | publicly known |
 
-## Help wanted
+## All 32 identified
 
-**One code still does something nobody has documented yet.** If you try it and see what it changes, open an issue
-with the code, the screen you entered it on and what happened.
+Every code's effect is now known. If one does more than this page says, open an issue with the code, the
+screen you entered it on and what happened.

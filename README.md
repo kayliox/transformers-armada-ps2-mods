@@ -58,8 +58,7 @@ Some highlights:
 | Pause menu | R1, Circle, Circle, R1, R2, L1, L1, L2 | Invincibility (enter it again in each level) | publicly known |
 | Pause menu | Left, Right, Left, R1, R2, R1, Right, Right | Enemies invisible | publicly known |
 
-**One code still does something nobody has documented yet:** L2, L2, Square, Circle, Square, R1, R1, R2 at the HQ.
-The game reads it when Mini-Con abilities and weapons are created. If you find out what it does, open an issue.
+**All 32 codes are identified.** If one does more than the list says, open an issue.
 
 ## Mods
 
