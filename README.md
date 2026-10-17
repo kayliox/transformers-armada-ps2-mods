@@ -71,7 +71,7 @@ Every mod is optional and off by default, so the original game always stays one 
 | 🖼️ **Ultrawide** (16:9, 21:9, 32:9) with the HUD at the screen edges | Shown in the screenshots below; comes with the decompiled version |
 | 🔭 **HD and 4K** rendering | Shown in the screenshots below; comes with the decompiled version |
 | 🛠️ **Hidden options** from the game's own config file: god mode, level select, warp gate transitions | Tested in the game; comes as a mod |
-| 🎲 **20 more mods**, from an enemy randomizer to boss rush, photo mode and play as a Decepticon | Planned: **[docs/MODS.md](docs/MODS.md)** |
+| 🎲 **22 more mods**, from an F1 mod menu with cheat toggles and an Unlock All button to boss rush, photo mode and play as a Decepticon | Planned: **[docs/MODS.md](docs/MODS.md)** |
 
 **Installing:** nothing is ready to download yet. The first mods will come with instructions here.
 
@@ -124,7 +124,7 @@ and bottom, and the HUD moves out to the screen edges.
 | **Now** | All 32 cheat codes documented; the decompilation in progress |
 | **Next** | The decompilation finished and public, and a native PC version built from it |
 | **Then** | The first mods for it: ultrawide, HD rendering and the hidden options |
-| **Later** | A mod loader and the 20 planned mods |
+| **Later** | A mod loader and the 22 planned mods |
 
 ## No game data
 

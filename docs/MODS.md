@@ -43,5 +43,7 @@ These need the game's code as readable source, so they come after the decompilat
 | 18 | 👥 **Two-player co-op** | A second Autobot for player 2, split screen first |
 | 19 | 🌐 **Archipelago** | The Mini-Con randomizer as an Archipelago world, playable together with other games |
 | 20 | ✨ **Quality of life** | Skip cutscenes, quick save, aim assist settings, HUD scale, colour-blind HUD colours |
+| 21 | 🎛️ **Mod menu with cheat toggles** | Press F1 for a mod menu: all 32 cheat codes with an on/off switch each, and Red Alert's "code accepted" every time you switch one on |
+| 22 | 🔓 **Unlock All** | One button unlocks everything: levels, warp gates, Mini-Cons, extras and Datacons. Best on a separate save |
 
 Ideas for other mods are welcome: open an issue.
