@@ -30,7 +30,7 @@ The 15 difficulty-screen codes build on each other: each one includes everything
 | Left, Left, Right, Circle, Circle, Right, Right, Left | As above, with the Starship completed (Starship level complete) | publicly known |
 | L1, R1, L2, R2, Left, Left, Right, Square | Adds Pacific Island; start at the Volcano gate before the boss | tried in the game |
 | R2, R1, L1, L2, Square, Circle, Square, Circle | As above, with Pacific Island completed (Earth complete) | publicly known |
-| R2, R2, L1, L2, R2, R1, L2, L2 | Everything: every level including Cybertron, every Mini-Con | read from the code |
+| R2, R2, L1, L2, R2, R1, L2, L2 | Every level up to Pacific Island and every Mini-Con; Cybertron does not appear in the mission list | tried in the game |
 
 ## Extras menu
 
